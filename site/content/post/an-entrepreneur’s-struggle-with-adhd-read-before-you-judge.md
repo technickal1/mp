@@ -5,6 +5,7 @@ description: >-
   There’s something I heard recently that precisely describes how I feel as a
   person: the smartest, the dumbest, the most motivated, and the laziest person
   in the room.
+image: img/nick_sign-150x150.jpg
 ---
 Last year around March I was diagnosed with ADHD.
 
